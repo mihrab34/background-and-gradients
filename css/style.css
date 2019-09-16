@@ -48,7 +48,7 @@ body {
 .nav-header div a {
   color: #fff;
   text-decoration: none;
-  font: 14px 500 'Lucida Grande','Lucida Sans Unicode', Verdana, sans-serif;
+  font: 14px 500 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
   line-height: 32px;
 }
 
@@ -143,4 +143,4 @@ body {
 
 [alt=country-image] {
   margin-bottom: -5px;
-} 
+}
