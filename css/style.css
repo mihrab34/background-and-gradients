@@ -87,7 +87,7 @@ body {
   margin: 0 auto;
 }
 
-.hero h3 {
+.hero h1 {
   font-size: 55px;
   color: #fff;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -99,6 +99,10 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: lighter;
   color: #fff;
+}
+
+#verse:hover{
+  text-decoration: underline #fff;
 }
 
 .row {
