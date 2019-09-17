@@ -4,15 +4,16 @@
 
     This Project is a solo microverse project on Apple homepage clone using background and gradients built by   Akintola Ramota Olajumoke. 
 
-    ![Image](/img/apple-homepage-clone.png "indexPage")
+![Image](/img/apple-homepage-clone.png "indexPage")
 
 **Built With**
-    HTML  
-    CSS
+
+   * HTML  
+   * CSS
 
 **Live Version**
 
-[Live Version](https://raw.githack.com/mihrab34/background-and-gradients/index-feature/index.html)
+Check out [Live Version](https://raw.githack.com/mihrab34/background-and-gradients/index-feature/index.html) of this project.
 
 **Contributions**
 
